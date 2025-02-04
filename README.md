@@ -11,12 +11,10 @@ Profile Card
 
 Установка и запуск
   1. Клонирование репозитория:
-    - git clone <URL_РЕПОЗИТОРИЯ>
-    - cd typescript-app
-  2. Установка зависимостей:
-     - npm install
-  3. Запуск приложения:
-     - npm start
+- git clone <URL_РЕПОЗИТОРИЯ>
+- cd typescript-app
+  2. Установка зависимостей: npm install
+  3. Запуск приложения: npm start
 Приложение запустится на http://localhost:3000/
 
 Используемые технологии: 
